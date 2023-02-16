@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "username": "mayur",
+      "email": "mayur@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "username": "shiva",
+      "email": "shiva@gmail.com",
+      "password": "321",
+      "id": 2
+    }
+  ],
+  "companies": [
+    {
+      "Company_Logo": "https://media.istockphoto.com/id/689431584/photo/luxury-golden-lotus-flower-3d-rendering-illustration.jpg?b=1&s=170667a&w=0&k=20&c=J_CCBxF7Lqkk8v5GMpacZL_bCn923AYV7hyDAWyxi80=",
+      "Company_Name": "something",
+      "Company_Type": "IT",
+      "Stock_Exchange": "BSE",
+      "Total_Shares": "6545",
+      "Cost_Per_Share": "564",
+      "Price_Action": "6465",
+      "id": 1
+    },
+    {
+      "Company_Logo": "https://media.istockphoto.com/id/689431584/photo/luxury-golden-lotus-flower-3d-rendering-illustration.jpg?b=1&s=170667a&w=0&k=20&c=J_CCBxF7Lqkk8v5GMpacZL_bCn923AYV7hyDAWyxi80=",
+      "Company_Name": "some",
+      "Company_Type": "Bank",
+      "Stock_Exchange": "NSE",
+      "Total_Shares": "5545",
+      "Cost_Per_Share": "56456",
+      "Price_Action": "646",
+      "id": 2
+    },
+    {
+      "Company_Logo": "https://media.istockphoto.com/id/1153633370/photo/graphic-designer-development-process-drawing-sketch-design-creative-ideas-draft-logo-product.jpg?b=1&s=170667a&w=0&k=20&c=VMWmnIF2Hb-6F6JQ-cIh_ZyaU7nFT_9s7LPhKk_57lc=",
+      "Company_Name": "jjdba",
+      "Company_Type": "Oil",
+      "Stock_Exchange": "BSE",
+      "Total_Shares": "kn,m",
+      "Cost_Per_Share": "65465",
+      "Price_Action": "545",
+      "id": 3
+    },
+    {
+      "Company_Logo": "https://media.istockphoto.com/id/689431584/photo/luxury-golden-lotus-flower-3d-rendering-illustration.jpg?b=1&s=170667a&w=0&k=20&c=J_CCBxF7Lqkk8v5GMpacZL_bCn923AYV7hyDAWyxi80=",
+      "Company_Name": "shiva",
+      "Company_Type": "Pharma",
+      "Stock_Exchange": "BSE",
+      "Total_Shares": "4646",
+      "Cost_Per_Share": "64654",
+      "Price_Action": "646",
+      "id": 4
+    },
+    {
+      "Company_Logo": "https://media.istockphoto.com/id/924528132/photo/bitcoin-businessman-double-exposure.jpg?b=1&s=170667a&w=0&k=20&c=XRLhvof8z9YMC0qjrzQ2qzvWYu1VaRQTFgt7ktLOw7U=",
+      "Company_Name": "mayur",
+      "Company_Type": "Automobile",
+      "Stock_Exchange": "BSE",
+      "Total_Shares": "654654",
+      "Cost_Per_Share": "6456",
+      "Price_Action": "887",
+      "id": 5
+    },
+    {
+      "Company_Logo": "https://media.istockphoto.com/id/689431584/photo/luxury-golden-lotus-flower-3d-rendering-illustration.jpg?b=1&s=170667a&w=0&k=20&c=J_CCBxF7Lqkk8v5GMpacZL_bCn923AYV7hyDAWyxi80=",
+      "Company_Name": "something",
+      "Company_Type": "IT",
+      "Stock_Exchange": "BSE",
+      "Total_Shares": "6545",
+      "Cost_Per_Share": "564",
+      "Price_Action": "6465",
+      "id": 6
+    },
+    {
+      "Company_Logo": "https://media.istockphoto.com/id/689431584/photo/luxury-golden-lotus-flower-3d-rendering-illustration.jpg?b=1&s=170667a&w=0&k=20&c=J_CCBxF7Lqkk8v5GMpacZL_bCn923AYV7hyDAWyxi80=",
+      "Company_Name": "some",
+      "Company_Type": "Bank",
+      "Stock_Exchange": "NSE",
+      "Total_Shares": "5545",
+      "Cost_Per_Share": "56456",
+      "Price_Action": "6465",
+      "id": 7
+    },
+    {
+      "Company_Logo": "https://media.istockphoto.com/id/1153633370/photo/graphic-designer-development-process-drawing-sketch-design-creative-ideas-draft-logo-product.jpg?b=1&s=170667a&w=0&k=20&c=VMWmnIF2Hb-6F6JQ-cIh_ZyaU7nFT_9s7LPhKk_57lc=",
+      "Company_Name": "jjdba",
+      "Company_Type": "Oil",
+      "Stock_Exchange": "BSE",
+      "Total_Shares": "kn,m",
+      "Cost_Per_Share": "65465",
+      "Price_Action": "5465",
+      "id": 8
+    }
+  ]
+}
